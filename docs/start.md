@@ -323,7 +323,9 @@ This is where you list all the people who made this possible -- Organizers, Prog
 
    [citation-stamp.tex](https://github.com/acl-org/ACLPUB/blob/master/templates/proceedings/citation-stamp.tex)
 
-This is the official citation for your proceedings, which gets stamped on the bottom of the first page of each author's work in your proceedings. Make sure the ciation stamp doesn't go into the margins (you can visually verify this in the generated **Draft** output. You can abbreviate your proceedings title, if you must shrink it). Make sure to change the date too.
+This is the official citation for your proceedings, which gets stamped on the bottom of the first page of each author's work in your proceedings. Make sure the ciation stamp doesn't go into the margins (you can visually verify this in the generated **Draft** output. You can abbreviate your proceedings title, if you must shrink it). Make sure to change the date too. 
+
+Also, **be sure to disable the DOI stamp**. The DOI generated here is incorrect. The true DOIs are not generated until ingestion into the Anthology.
 
 
 ### Step 4.6 Book (Settings Subtab)
