@@ -1,1 +1,5 @@
 pdfrw
+pdfplumber
+typing_extensions
+tqdm
+termcolor
